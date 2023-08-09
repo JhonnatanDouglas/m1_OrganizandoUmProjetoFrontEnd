@@ -1,0 +1,37 @@
+* {
+    vertical-align: baseline;
+    font-weight: inherit;
+    font-family:'Impact', 'Haettenschweiler', 'Arial Narrow Bold', 'sans-serif';
+    font-style: inherit;
+    border: 0 none;
+    outline: 0;
+    padding: 0;
+    margin: 0;
+}
+
+:root{
+    /* Display */
+
+    --d-flex: flex;
+
+    /* Colors */
+
+    --color-font-header: azure;
+    --color-sale: brown;
+    --color-sale-text: white;
+    --color-menu-header: white;
+    --color-border-radius: rgb(255, 255, 255);
+    --bg-color-gradient-tone1: rgb(226, 226, 255);
+    --bg-color-gradient-tone2: rgb(175, 175, 175);
+    --bg-color-body: rgb(224, 224, 224);
+    --bg-color-header: black;
+    --bg-color-footer: black;
+    --color-box-shadow: rgba(0,0,0,0.75);
+
+    /* Font Size */
+
+    --font-small: 20px;
+    --font-medium-1: 30px;
+    --font-medium-2: 32px;
+    --font-large: 48px;
+}
